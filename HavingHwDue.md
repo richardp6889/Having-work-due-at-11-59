@@ -1,4 +1,5 @@
 # Having Homework due at 11:59
 
-[ignore work](procrastinate.md)
-
+[ignore work](sleep.md)
+[procrastinate](procrastinate.md)
+[start work]()
