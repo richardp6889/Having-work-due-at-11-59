@@ -4,5 +4,6 @@ Your homework is due at 12:00 and you only have 2 hours to do your project ..Whi
 ---
 
 Credits
+[made by XueL6135](https://github.com/XueL6135) [, and richardp6889](https://github.com/richardp6889)
 
-[The Plan...](https://docs.google.com/drawings/d/16uL32cToqRhLSJGmUMy4yHE50wDbIQkxnWvBGFAHxHk/edit)
+[Behind the scenes.](https://docs.google.com/drawings/d/16uL32cToqRhLSJGmUMy4yHE50wDbIQkxnWvBGFAHxHk/edit)
